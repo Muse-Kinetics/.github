@@ -16,13 +16,6 @@ We believe when a computer is played as a musical instrument it should feel and 
 - **[K-Board-C](https://www.musekinetics.com/k-board-c/)** - Performance MIDI keyboard
 - **[BopPad Galaxy](https://www.musekinetics.com/boppad-galaxy/)** - Smart fabric drum pad
 
-## Open Source Software
-
-### Device Editors
-- **[QuNeo Editor](https://github.com/Muse-Kinetics/quneo-qt6-editor)** - QT6 universal binary application for configuring the QuNeo MIDI controller
-- **[SoftStep Editor](https://github.com/Muse-Kinetics/softstep_editor)** - Editor for the Muse Kinetics SoftStep
-- **[QuNexus Editor](https://github.com/Muse-Kinetics/qunexus-qt6)** - Editor for the Muse Kinetics QuNexus
-
 ## Resources
 
 - 🌐 [Website](https://www.musekinetics.com)

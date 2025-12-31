@@ -16,6 +16,12 @@ We believe when a computer is played as a musical instrument it should feel and 
 - **[K-Board-C](https://www.musekinetics.com/k-board-c/)** - Performance MIDI keyboard
 - **[BopPad Galaxy](https://www.musekinetics.com/boppad-galaxy/)** - Smart fabric drum pad
 
+## External Project Forks
+These repositories contain forks of open-source projects used in our products.
+
+- **[LiquidSfz](https://github.com/Muse-Kinetics/liquidsfz)** — fork of the Liquidsfz project, used in our sampler products (licensed under MPL-2.0)
+- **[RtMidi](https://github.com/Muse-Kinetics/rtmidi)** — fork of the RtMidi project, used in our editor software
+
 ## Resources
 
 - 🌐 [Website](https://www.musekinetics.com)

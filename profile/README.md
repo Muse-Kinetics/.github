@@ -10,11 +10,11 @@ We believe when a computer is played as a musical instrument it should feel and 
 
 ## Our Products
 
-- **[SoftStep3](https://www.musekinetics.com/softstep3/)** - Advanced MIDI foot controller
-- **[12 Step2](https://www.musekinetics.com/12-step-2/)** - Chromatic foot pedal controller
-- **[QuNexus Galaxy](https://www.musekinetics.com/qunexus-galaxy/)** - Portable MIDI keyboard controller
-- **[K-Board-C](https://www.musekinetics.com/k-board-c/)** - Performance MIDI keyboard
-- **[BopPad Galaxy](https://www.musekinetics.com/boppad-galaxy/)** - Smart fabric drum pad
+- **[SoftStep3](https://www.musekinetics.com/products/softstep/)** - Advanced MIDI foot controller
+- **[12 Step2](https://www.musekinetics.com/products/12-step/)** - Chromatic foot pedal controller
+- **[QuNexus](https://www.musekinetics.com/products/qunexus/)** - Portable MIDI keyboard controller with MPE, CV, and four-track arpeggiator/sequencer
+- **[K-Board](https://www.musekinetics.com//products/k-board/)** - Performance MIDI keyboard with MPE
+- **[BopPad](https://www.musekinetics.com/products/boppad/)** - Four quadrant MIDI drum pad with radius and pressure
 
 ## External Project Forks
 These repositories contain forks of open-source projects used in our products.

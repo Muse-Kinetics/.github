@@ -13,7 +13,7 @@ We believe when a computer is played as a musical instrument it should feel and 
 - **[SoftStep3](https://www.musekinetics.com/products/softstep/)** - Advanced MIDI foot controller
 - **[12 Step2](https://www.musekinetics.com/products/12-step/)** - Chromatic foot pedal controller
 - **[QuNexus](https://www.musekinetics.com/products/qunexus/)** - Portable MIDI keyboard controller with MPE, CV, and four-track arpeggiator/sequencer
-- **[K-Board](https:/www.musekinetics.com/products/k-board/)** - Performance MIDI keyboard with MPE
+- **[K-Board](https://www.musekinetics.com/products/k-board/)** - Performance MIDI keyboard with MPE
 - **[BopPad](https://www.musekinetics.com/products/boppad/)** - Four quadrant MIDI drum pad with radius and pressure
 
 ## External Project Forks
